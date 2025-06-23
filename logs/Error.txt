@@ -1,0 +1,91 @@
+app.log:[2025-06-23
+12:33:43]
+[ERROR]
+User=bob
+IP=250.81.215.244
+Action=login
+app.log:[2025-06-23
+12:33:46]
+[ERROR]
+User=admin
+IP=52.140.144.243
+Action=login
+app.log:[2025-06-23
+12:33:46]
+[ERROR]
+User=admin
+IP=71.92.47.43
+Action=login
+app.log:[2025-06-23
+12:33:48]
+[ERROR]
+User=alice
+IP=238.113.146.103
+Action=login
+app.log:[2025-06-23
+12:33:48]
+[ERROR]
+User=alice
+IP=66.0.194.123
+Action=login
+auth.log:[2025-06-23
+12:33:43]
+[ERROR]
+User=alice
+IP=41.34.206.228
+Action=login
+auth.log:[2025-06-23
+12:33:43]
+[ERROR]
+User=root
+IP=17.180.236.61
+Action=login
+auth.log:[2025-06-23
+12:33:44]
+[ERROR]
+User=alice
+IP=33.225.93.130
+Action=login
+auth.log:[2025-06-23
+12:33:45]
+[ERROR]
+User=bob
+IP=164.127.117.141
+Action=login
+auth.log:[2025-06-23
+12:33:48]
+[ERROR]
+User=charlie
+IP=125.192.205.19
+Action=login
+system.log:[2025-06-23
+12:33:42]
+[ERROR]
+User=bob
+IP=55.34.179.191
+Action=login
+system.log:[2025-06-23
+12:33:42]
+[ERROR]
+User=root
+IP=218.156.85.168
+Action=login
+system.log:[2025-06-23
+12:33:45]
+[ERROR]
+User=admin
+IP=2.43.240.7
+Action=login
+app.log:[2025-06-23 12:33:43] [ERROR] User=bob IP=250.81.215.244 Action=login
+app.log:[2025-06-23 12:33:46] [ERROR] User=admin IP=52.140.144.243 Action=login
+app.log:[2025-06-23 12:33:46] [ERROR] User=admin IP=71.92.47.43 Action=login
+app.log:[2025-06-23 12:33:48] [ERROR] User=alice IP=238.113.146.103 Action=login
+app.log:[2025-06-23 12:33:48] [ERROR] User=alice IP=66.0.194.123 Action=login
+auth.log:[2025-06-23 12:33:43] [ERROR] User=alice IP=41.34.206.228 Action=login
+auth.log:[2025-06-23 12:33:43] [ERROR] User=root IP=17.180.236.61 Action=login
+auth.log:[2025-06-23 12:33:44] [ERROR] User=alice IP=33.225.93.130 Action=login
+auth.log:[2025-06-23 12:33:45] [ERROR] User=bob IP=164.127.117.141 Action=login
+auth.log:[2025-06-23 12:33:48] [ERROR] User=charlie IP=125.192.205.19 Action=login
+system.log:[2025-06-23 12:33:42] [ERROR] User=bob IP=55.34.179.191 Action=login
+system.log:[2025-06-23 12:33:42] [ERROR] User=root IP=218.156.85.168 Action=login
+system.log:[2025-06-23 12:33:45] [ERROR] User=admin IP=2.43.240.7 Action=login
